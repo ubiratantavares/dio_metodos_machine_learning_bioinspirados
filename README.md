@@ -1,2 +1,6 @@
-# dio_metodos_machine_learning_bioinspirados
-dio_metodos_machine_learning_bioinspirados
+# DIO - Métodos de Machine Learning Bioinspirados
+
+## Métodos de Machine Learning Bioinspirados
+
+## Algoritmos Heurísticos x Determinístcos
+
